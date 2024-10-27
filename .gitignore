@@ -10,3 +10,6 @@ __pycache__/
 
 # build files
 [Bb]uid/
+
+# dev
+manage.py
