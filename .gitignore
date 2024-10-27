@@ -1,0 +1,12 @@
+# virtual enviroment
+venv/
+env/
+
+# vscode files
+vscode/
+
+# cache
+__pycache__/
+
+# build files
+[Bb]uid/
